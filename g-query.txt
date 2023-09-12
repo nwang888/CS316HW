@@ -1,0 +1,15 @@
+\project_{bar,beer} (
+    (\project_{bar} (
+        \select_{drinker = 'Amy'} frequents
+    ))
+    \join
+    (serves
+    \diff
+    (\project_{bar1, beer1, price1} (
+        ((\rename_{bar1,beer1,price1} (serves))
+        \join_{bar1 = bar2 and price1 < price2}
+        (\rename_{bar2,beer2,price2} (serves)))
+    )))
+);
+
+/*serves diff the other thing renames it automatically to bar */

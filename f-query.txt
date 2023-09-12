@@ -1,0 +1,7 @@
+\project_{drinker} (
+    \select_{not beer1 = beer2} (
+        (\rename_{drinker, beer1} (likes))
+        \join
+        (\rename_{drinker, beer2} (likes))
+    )
+);

@@ -1,0 +1,21 @@
+(bar:string, beer:string)
+----------------------------------------------------------------------
+James Joyce Pub, Amstel
+Talk of the Town, Amstel
+Satisfaction, Dixie
+James Joyce Pub, Corona
+Satisfaction, Amstel
+Satisfaction, Corona
+Talk of the Town, Budweiser
+Satisfaction, Budweiser
+Satisfaction, Full Sail
+The Edge, Budweiser
+James Joyce Pub, Dixie
+Down Under Pub, Corona
+James Joyce Pub, Erdinger
+The Edge, Amstel
+Down Under Pub, Amstel
+The Edge, Corona
+Down Under Pub, Budweiser
+----------------------------------------------------------------------
+17 tuples returned

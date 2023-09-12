@@ -1,0 +1,10 @@
+\project_{bar} (
+    \select_{
+        beer='Corona' and
+        beer1='Amstel'}
+        (
+            (serves \join(
+                \rename_{bar, beer1, price1}(serves))
+            )
+        )
+);

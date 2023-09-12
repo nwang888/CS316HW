@@ -1,0 +1,16 @@
+(bar:string, drinker:string)
+----------------------------------------------------------------------
+Talk of the Town, Dan
+James Joyce Pub, Dan
+Talk of the Town, Ben
+Down Under Pub, Coy
+James Joyce Pub, Amy
+The Edge, Dan
+Satisfaction, Ben
+Satisfaction, Dan
+James Joyce Pub, Eve
+James Joyce Pub, Ben
+Down Under Pub, Dan
+The Edge, Coy
+----------------------------------------------------------------------
+12 tuples returned

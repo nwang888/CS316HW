@@ -1,0 +1,8 @@
+\rename_{name} (
+    \project_{drinker} (
+        \select_{
+            bar = 'Satisfaction'
+            and times_a_week >= 2} (
+                frequents
+            ) 
+))\join drinker;

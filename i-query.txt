@@ -1,0 +1,25 @@
+\select_{beer_served=beer_liked} (
+        \rename_{drinker,beer_liked} (
+            \project_{drinker,beer} (likes)
+        )
+        \join
+        \rename_{drinker,bar,beer_served} (
+            \project_{bar,beer} (serves)
+            \join
+            \project_{drinker,bar} (frequents)
+        )
+    );
+
+(\project_{bar,drinker} (
+    \select_{beer_served=beer_liked} (
+        \rename_{drinker,beer_liked} (
+            \project_{drinker,beer} (likes)
+        )
+        \join
+        \rename_{drinker,bar,beer_served} (
+            \project_{bar,beer} (serves)
+            \join
+            \project_{drinker,bar} (frequents)
+        )
+    )
+));
