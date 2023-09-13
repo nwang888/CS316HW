@@ -1,15 +1,13 @@
 (\project_{bar,drinker} (frequents))
 \diff
-(\project_{bar,drinker} (
-    \select_{beer_served=beer_liked} (
-        \rename_{drinker,beer_liked} (
-            \project_{drinker,beer} (likes)
-        )
-        \join
-        \rename_{drinker,bar,beer_served} (
+(\project_{bar,drinker1} (
+    \select_{drinker1=drinker2} (
+        (\rename_{drinker2,beer_liked} (likes))
+        \join_{beer_served=beer_liked}
+        (\rename_{bar,beer_served, drinker1} (
             \project_{bar,beer} (serves)
             \join
             \project_{drinker,bar} (frequents)
-        )
+        ))
     )
 ));

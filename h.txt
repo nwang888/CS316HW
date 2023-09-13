@@ -1,16 +1,7 @@
+WARNING: (\project_{bar, drinker} frequents) \diff (\project_{bar, drinker1} (\select_{drinker1 = drinker2} ((\rename_{drinker2, beer_liked} likes) \join_{beer_served = beer_liked} (\rename_{bar, beer_served, drinker1} ((\project_{bar, beer} serves) \join (\project_{drinker, bar} frequents)))))): input attributes at position 1 have different names: frequents.drinker vs. _.drinker1
 (bar:string, drinker:string)
 ----------------------------------------------------------------------
-Talk of the Town, Dan
-James Joyce Pub, Dan
-Talk of the Town, Ben
 Down Under Pub, Coy
-James Joyce Pub, Amy
-The Edge, Dan
-Satisfaction, Ben
-Satisfaction, Dan
-James Joyce Pub, Eve
-James Joyce Pub, Ben
-Down Under Pub, Dan
 The Edge, Coy
 ----------------------------------------------------------------------
-12 tuples returned
+2 tuples returned
