@@ -1,7 +1,11 @@
-(\project_{drinker} (
+\project_{name,address} (
+((\project_{drinker} (
     \select_{beer='Dixie'} (likes)
 ))
 \diff
 (\project_{drinker} (
     \select_{beer='Corona'} (likes)
+))) \join_{name=drinker}
+(
+    drinker
 ));
