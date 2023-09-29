@@ -1,8 +1,11 @@
-SELECT drinker AS name,
-  address
-FROM Drinker
-  INNER JOIN (
-    SELECT drinker
-    FROM Likes
-    WHERE beer IN ('Dixie', 'Corona')
-  ) ON Likes.drinker = Drinker.name
+SELECT name, address
+FROM drinker
+WHERE drinker.name IN (
+  (SELECT drinker
+  FROM likes
+  WHERE beer = 'Dixie')
+  INTERSECT
+  (SELECT drinker
+  FROM likes
+  WHERE beer = 'Corona')
+)

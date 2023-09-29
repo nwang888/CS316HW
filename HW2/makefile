@@ -5,6 +5,6 @@ run:
 		echo "Error: q is not set"; \
 		exit 1; \
 	fi; 
-	radb beers -i $(q)-query.txt > $(q).txt 
+	psql beers -af $(q)-query.sql > $(q).txt 
 
 .PHONY: run
