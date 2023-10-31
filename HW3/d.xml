@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+   <person district="1" name="Donald G. Davis" state="NC" type="rep" party="Democrat"/>
+   <person district="2" name="Deborah K. Ross" state="NC" type="rep" party="Democrat"/>
+   <person district="3" name="Gregory F. Murphy" state="NC" type="rep" party="Republican"/>
+   <person district="4" name="Valerie P. Foushee" state="NC" type="rep" party="Democrat"/>
+   <person district="5" name="Virginia Foxx" state="NC" type="rep" party="Republican"/>
+   <person district="6" name="Kathy E. Manning" state="NC" type="rep" party="Democrat"/>
+   <person district="7" name="David Rouzer" state="NC" type="rep" party="Republican"/>
+   <person district="8" name="Dan Bishop" state="NC" type="rep" party="Republican"/>
+   <person district="9" name="Richard Hudson" state="NC" type="rep" party="Republican"/>
+   <person district="10" name="Patrick T. McHenry" state="NC" type="rep"
+           party="Republican"/>
+   <person district="11" name="Chuck Edwards" state="NC" type="rep" party="Republican"/>
+   <person district="12" name="Alma S. Adams" state="NC" type="rep" party="Democrat"/>
+   <person district="13" name="Wiley Nickel" state="NC" type="rep" party="Democrat"/>
+   <person district="14" name="Jeff Jackson" state="NC" type="rep" party="Democrat"/>
+</result>
