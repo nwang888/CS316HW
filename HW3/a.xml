@@ -174,13 +174,4 @@
             party="Democrat"
             state="MN"/>
         </person>
-   <person id="H001079" name="Cindy Hyde-Smith" birthday="1959-05-10" gender="F">
-            <role type="sen" startdate="2018-04-09" enddate="2018-11-27" party="Republican"
-            state="MS"/>
-            <role type="sen" startdate="2018-11-28" enddate="2021-01-03" party="Republican"
-            state="MS"/>
-            <role type="sen" startdate="2021-01-03" enddate="2027-01-03" current="1"
-            party="Republican"
-            state="MS"/>
-        </person>
 </result>
