@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+   <person name="Maria Cantwell" state="WA" age="65"/>
+   <person name="Dianne Feinstein" state="CA" age="90"/>
+   <person name="Amy Klobuchar" state="MN" age="63"/>
+   <person name="Debbie Stabenow" state="MI" age="73"/>
+   <person name="Susan M. Collins" state="ME" age="71"/>
+   <person name="Jeanne Shaheen" state="NH" age="76"/>
+   <person name="Kirsten E. Gillibrand" state="NY" age="57"/>
+   <person name="Tammy Baldwin" state="WI" age="61"/>
+   <person name="Marsha Blackburn" state="TN" age="71"/>
+   <person name="Shelley Moore Capito" state="WV" age="70"/>
+   <person name="Kathy Castor" state="FL" age="57"/>
+   <person name="Judy Chu" state="CA" age="70"/>
+   <person name="Yvette D. Clarke" state="NY" age="59"/>
+   <person name="Diana DeGette" state="CO" age="66"/>
+   <person name="Rosa L. DeLauro" state="CT" age="80"/>
+   <person name="Anna G. Eshoo" state="CA" age="81"/>
+   <person name="Virginia Foxx" state="NC" age="80"/>
+   <person name="Kay Granger" state="TX" age="80"/>
+   <person name="Mazie K. Hirono" state="HI" age="76"/>
+   <person name="Sheila Jackson Lee" state="TX" age="73"/>
+   <person name="Marcy Kaptur" state="OH" age="77"/>
+   <person name="Barbara Lee" state="CA" age="77"/>
+   <person name="Zoe Lofgren" state="CA" age="76"/>
+   <person name="Doris O. Matsui" state="CA" age="79"/>
+   <person name="Betty McCollum" state="MN" age="69"/>
+   <person name="Cathy McMorris Rodgers" state="WA" age="54"/>
+   <person name="Gwen Moore" state="WI" age="72"/>
+   <person name="Lisa Murkowski" state="AK" age="66"/>
+   <person name="Patty Murray" state="WA" age="73"/>
+   <person name="Grace F. Napolitano" state="CA" age="87"/>
+   <person name="Eleanor Holmes Norton" state="DC" age="86"/>
+   <person name="Nancy Pelosi" state="CA" age="83"/>
+   <person name="Chellie Pingree" state="ME" age="68"/>
+   <person name="Janice D. Schakowsky" state="IL" age="79"/>
+   <person name="Terri A. Sewell" state="AL" age="58"/>
+   <person name="Linda T. Sánchez" state="CA" age="54"/>
+   <person name="Nydia M. Velázquez" state="NY" age="70"/>
+   <person name="Debbie Wasserman Schultz" state="FL" age="57"/>
+   <person name="Maxine Waters" state="CA" age="85"/>
+   <person name="Frederica S. Wilson" state="FL" age="81"/>
+   <person name="Suzanne Bonamici" state="OR" age="69"/>
+   <person name="Suzan K. DelBene" state="WA" age="61"/>
+   <person name="Dina Titus" state="NV" age="73"/>
+   <person name="Kyrsten Sinema" state="AZ" age="47"/>
+   <person name="Julia Brownley" state="CA" age="71"/>
+   <person name="Lois Frankel" state="FL" age="75"/>
+   <person name="Tammy Duckworth" state="IL" age="55"/>
+   <person name="Elizabeth Warren" state="MA" age="74"/>
+   <person name="Ann Wagner" state="MO" age="61"/>
+   <person name="Deb Fischer" state="NE" age="72"/>
+   <person name="Ann M. Kuster" state="NH" age="67"/>
+   <person name="Grace Meng" state="NY" age="48"/>
+   <person name="Joyce Beatty" state="OH" age="73"/>
+   <person name="Robin L. Kelly" state="IL" age="67"/>
+   <person name="Katherine M. Clark" state="MA" age="60"/>
+   <person name="Alma S. Adams" state="NC" age="77"/>
+   <person name="Norma J. Torres" state="CA" age="58"/>
+   <person name="Debbie Dingell" state="MI" age="70"/>
+   <person name="Bonnie Watson Coleman" state="NJ" age="78"/>
+   <person name="Elise M. Stefanik" state="NY" age="39"/>
+   <person name="Stacey E. Plaskett" state="VI" age="57"/>
+   <person name="Aumua Amata Coleman Radewagen" state="AS" age="76"/>
+   <person name="Joni Ernst" state="IA" age="53"/>
+   <person name="Margaret Wood Hassan" state="NH" age="65"/>
+   <person name="Catherine Cortez Masto" state="NV" age="59"/>
+   <person name="Nanette Diaz Barragán" state="CA" age="47"/>
+   <person name="Lisa Blunt Rochester" state="DE" age="61"/>
+   <person name="Jacky Rosen" state="NV" age="66"/>
+   <person name="Jenniffer González-Colón" state="PR" age="47"/>
+   <person name="Pramila Jayapal" state="WA" age="58"/>
+   <person name="Tina Smith" state="MN" age="65"/>
+   <person name="Cindy Hyde-Smith" state="MS" age="64"/>
+   <person name="Debbie Lesko" state="AZ" age="65"/>
+   <person name="Mary Gay Scanlon" state="PA" age="64"/>
+   <person name="Susan Wild" state="PA" age="66"/>
+   <person name="Katie Porter" state="CA" age="49"/>
+   <person name="Jahana Hayes" state="CT" age="50"/>
+   <person name="Lucy McBath" state="GA" age="63"/>
+   <person name="Lauren Underwood" state="IL" age="37"/>
+   <person name="Sharice Davids" state="KS" age="43"/>
+   <person name="Lori Trahan" state="MA" age="50"/>
+   <person name="Ayanna Pressley" state="MA" age="49"/>
+   <person name="Elissa Slotkin" state="MI" age="47"/>
+   <person name="Haley M. Stevens" state="MI" age="40"/>
+   <person name="Rashida Tlaib" state="MI" age="47"/>
+   <person name="Angie Craig" state="MN" age="51"/>
+   <person name="Ilhan Omar" state="MN" age="42"/>
+   <person name="Mikie Sherrill" state="NJ" age="51"/>
+   <person name="Susie Lee" state="NV" age="57"/>
+   <person name="Alexandria Ocasio-Cortez" state="NY" age="34"/>
+   <person name="Madeleine Dean" state="PA" age="64"/>
+   <person name="Chrissy Houlahan" state="PA" age="56"/>
+   <person name="Lizzie Fletcher" state="TX" age="48"/>
+   <person name="Veronica Escobar" state="TX" age="54"/>
+   <person name="Sylvia R. Garcia" state="TX" age="73"/>
+   <person name="Abigail Davis Spanberger" state="VA" age="44"/>
+   <person name="Jennifer Wexton" state="VA" age="55"/>
+   <person name="Kim Schrier" state="WA" age="55"/>
+   <person name="Carol D. Miller" state="WV" age="73"/>
+   <person name="Cynthia M. Lummis" state="WY" age="69"/>
+   <person name="Young Kim" state="CA" age="61"/>
+   <person name="Michelle Steel" state="CA" age="68"/>
+   <person name="Sara Jacobs" state="CA" age="34"/>
+   <person name="Lauren Boebert" state="CO" age="37"/>
+   <person name="Kat Cammack" state="FL" age="35"/>
+   <person name="Maria Elvira Salazar" state="FL" age="62"/>
+   <person name="Nikema Williams" state="GA" age="45"/>
+   <person name="Marjorie Taylor Greene" state="GA" age="49"/>
+   <person name="Ashley Hinson" state="IA" age="40"/>
+   <person name="Mariannette Miller-Meeks" state="IA" age="68"/>
+   <person name="Mary E. Miller" state="IL" age="64"/>
+   <person name="Victoria Spartz" state="IN" age="45"/>
+   <person name="Lisa C. McClain" state="MI" age="57"/>
+   <person name="Michelle Fischbach" state="MN" age="58"/>
+   <person name="Cori Bush" state="MO" age="47"/>
+   <person name="Deborah K. Ross" state="NC" age="60"/>
+   <person name="Kathy E. Manning" state="NC" age="67"/>
+   <person name="Teresa Leger Fernandez" state="NM" age="64"/>
+   <person name="Nicole Malliotakis" state="NY" age="43"/>
+   <person name="Stephanie I. Bice" state="OK" age="50"/>
+   <person name="Nancy Mace" state="SC" age="46"/>
+   <person name="Diana Harshbarger" state="TN" age="63"/>
+   <person name="Beth Van Duyne" state="TX" age="53"/>
+   <person name="Marilyn Strickland" state="WA" age="61"/>
+   <person name="Claudia Tenney" state="NY" age="62"/>
+   <person name="Julia Letlow" state="LA" age="42"/>
+   <person name="Melanie A. Stansbury" state="NM" age="44"/>
+   <person name="Shontel M. Brown" state="OH" age="48"/>
+   <person name="Sheila Cherfilus-McCormick" state="FL" age="44"/>
+   <person name="Mary Sattler Peltola" state="AK" age="50"/>
+   <person name="Katie Boyd Britt" state="AL" age="41"/>
+   <person name="Sydney Kamlager-Dove" state="CA" age="51"/>
+   <person name="Brittany Pettersen" state="CO" age="42"/>
+   <person name="Yadira Caraveo" state="CO" age="43"/>
+   <person name="Anna Paulina Luna" state="FL" age="34"/>
+   <person name="Laurel M. Lee" state="FL" age="49"/>
+   <person name="Jill N. Tokuda" state="HI" age="47"/>
+   <person name="Delia C. Ramirez" state="IL" age="40"/>
+   <person name="Nikki Budzinski" state="IL" age="46"/>
+   <person name="Erin Houchin" state="IN" age="47"/>
+   <person name="Hillary J. Scholten" state="MI" age="41"/>
+   <person name="Valerie P. Foushee" state="NC" age="67"/>
+   <person name="Emilia Strong Sykes" state="OH" age="37"/>
+   <person name="Val T. Hoyle" state="OR" age="59"/>
+   <person name="Lori Chavez-DeRemer" state="OR" age="55"/>
+   <person name="Andrea Salinas" state="OR" age="54"/>
+   <person name="Summer L. Lee" state="PA" age="36"/>
+   <person name="Monica De La Cruz" state="TX" age="49"/>
+   <person name="Jasmine Crockett" state="TX" age="42"/>
+   <person name="Jennifer Kiggans" state="VA" age="52"/>
+   <person name="Becca Balint" state="VT" age="55"/>
+   <person name="Marie Gluesenkamp Perez" state="WA" age="35"/>
+   <person name="Harriet M. Hageman" state="WY" age="61"/>
+   <person name="Jennifer L. McClellan" state="VA" age="51"/>
+</result>
