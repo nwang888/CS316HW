@@ -4,7 +4,7 @@
     order by $x/@name ascending
     return
         <member>
-            {$x/@name}
+            {data($x/@name)}
         </member>
 }
 </result>
