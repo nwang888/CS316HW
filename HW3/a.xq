@@ -1,7 +1,6 @@
 <result> {
-    for $x in /congress/people
+    for $x in /congress/people/person
     where ends-with($x/@name, 'Smith')
-    (:for $x in /congress/people/name[ends-with(@name, 'Smith')]:)
     return
         $x
 }
