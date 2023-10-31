@@ -4,8 +4,6 @@
     order by xs:integer($x/role[@current='1']/@district) ascending
     return <representative name="{data($x/@name)}"
             district="{data($x/role[@current='1']/@district)}"
-            party="{data($x/role[@current='1']/@party)}"
-            state="{data($x/role[@current='1']/@state)}"
-            type="{data($x/role[@current='1']/@type)}"/>
+            party="{data($x/role[@current='1']/@party)}"/>
 }
 </result>

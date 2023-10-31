@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-   <representative district="1" name="Donald G. Davis" state="NC" type="rep" party="Democrat"/>
-   <representative district="2" name="Deborah K. Ross" state="NC" type="rep" party="Democrat"/>
-   <representative district="3" name="Gregory F. Murphy" state="NC" type="rep" party="Republican"/>
-   <representative district="4" name="Valerie P. Foushee" state="NC" type="rep" party="Democrat"/>
-   <representative district="5" name="Virginia Foxx" state="NC" type="rep" party="Republican"/>
-   <representative district="6" name="Kathy E. Manning" state="NC" type="rep" party="Democrat"/>
-   <representative district="7" name="David Rouzer" state="NC" type="rep" party="Republican"/>
-   <representative district="8" name="Dan Bishop" state="NC" type="rep" party="Republican"/>
-   <representative district="9" name="Richard Hudson" state="NC" type="rep" party="Republican"/>
-   <representative district="10" name="Patrick T. McHenry" state="NC" type="rep"
-                   party="Republican"/>
-   <representative district="11" name="Chuck Edwards" state="NC" type="rep" party="Republican"/>
-   <representative district="12" name="Alma S. Adams" state="NC" type="rep" party="Democrat"/>
-   <representative district="13" name="Wiley Nickel" state="NC" type="rep" party="Democrat"/>
-   <representative district="14" name="Jeff Jackson" state="NC" type="rep" party="Democrat"/>
+   <representative district="1" name="Donald G. Davis" party="Democrat"/>
+   <representative district="2" name="Deborah K. Ross" party="Democrat"/>
+   <representative district="3" name="Gregory F. Murphy" party="Republican"/>
+   <representative district="4" name="Valerie P. Foushee" party="Democrat"/>
+   <representative district="5" name="Virginia Foxx" party="Republican"/>
+   <representative district="6" name="Kathy E. Manning" party="Democrat"/>
+   <representative district="7" name="David Rouzer" party="Republican"/>
+   <representative district="8" name="Dan Bishop" party="Republican"/>
+   <representative district="9" name="Richard Hudson" party="Republican"/>
+   <representative district="10" name="Patrick T. McHenry" party="Republican"/>
+   <representative district="11" name="Chuck Edwards" party="Republican"/>
+   <representative district="12" name="Alma S. Adams" party="Democrat"/>
+   <representative district="13" name="Wiley Nickel" party="Democrat"/>
+   <representative district="14" name="Jeff Jackson" party="Democrat"/>
 </result>
