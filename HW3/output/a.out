@@ -1,0 +1,476 @@
+[
+  {
+    _id: 'S000510',
+    name: 'Adam Smith',
+    birthday: ISODate("1965-06-15T00:00:00.000Z"),
+    gender: 'M',
+    roles: [
+      {
+        type: 'rep',
+        startdate: ISODate("1997-01-07T00:00:00.000Z"),
+        enddate: ISODate("1999-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1999-01-06T00:00:00.000Z"),
+        enddate: ISODate("2001-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2001-01-03T00:00:00.000Z"),
+        enddate: ISODate("2003-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2003-01-07T00:00:00.000Z"),
+        enddate: ISODate("2005-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2005-01-04T00:00:00.000Z"),
+        enddate: ISODate("2007-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2007-01-04T00:00:00.000Z"),
+        enddate: ISODate("2009-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2009-01-06T00:00:00.000Z"),
+        enddate: ISODate("2011-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2011-01-05T00:00:00.000Z"),
+        enddate: ISODate("2013-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2013-01-03T00:00:00.000Z"),
+        enddate: ISODate("2015-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2015-01-06T00:00:00.000Z"),
+        enddate: ISODate("2017-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2017-01-03T00:00:00.000Z"),
+        enddate: ISODate("2019-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2019-01-03T00:00:00.000Z"),
+        enddate: ISODate("2021-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2021-01-03T00:00:00.000Z"),
+        enddate: ISODate("2023-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2023-01-03T00:00:00.000Z"),
+        enddate: ISODate("2025-01-03T00:00:00.000Z"),
+        current: 1,
+        party: 'Democrat',
+        state: 'WA',
+        district: 9
+      }
+    ]
+  },
+  {
+    _id: 'S001172',
+    name: 'Adrian Smith',
+    birthday: ISODate("1970-12-19T00:00:00.000Z"),
+    gender: 'M',
+    roles: [
+      {
+        type: 'rep',
+        startdate: ISODate("2007-01-04T00:00:00.000Z"),
+        enddate: ISODate("2009-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2009-01-06T00:00:00.000Z"),
+        enddate: ISODate("2011-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2011-01-05T00:00:00.000Z"),
+        enddate: ISODate("2013-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2013-01-03T00:00:00.000Z"),
+        enddate: ISODate("2015-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2015-01-06T00:00:00.000Z"),
+        enddate: ISODate("2017-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2017-01-03T00:00:00.000Z"),
+        enddate: ISODate("2019-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2019-01-03T00:00:00.000Z"),
+        enddate: ISODate("2021-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2021-01-03T00:00:00.000Z"),
+        enddate: ISODate("2023-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2023-01-03T00:00:00.000Z"),
+        enddate: ISODate("2025-01-03T00:00:00.000Z"),
+        current: 1,
+        party: 'Republican',
+        state: 'NE',
+        district: 3
+      }
+    ]
+  },
+  {
+    _id: 'S000522',
+    name: 'Christopher H. Smith',
+    birthday: ISODate("1953-03-04T00:00:00.000Z"),
+    gender: 'M',
+    roles: [
+      {
+        type: 'rep',
+        startdate: ISODate("1981-01-05T00:00:00.000Z"),
+        enddate: ISODate("1983-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1983-01-03T00:00:00.000Z"),
+        enddate: ISODate("1985-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1985-01-03T00:00:00.000Z"),
+        enddate: ISODate("1987-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1987-01-06T00:00:00.000Z"),
+        enddate: ISODate("1989-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1989-01-03T00:00:00.000Z"),
+        enddate: ISODate("1991-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1991-01-03T00:00:00.000Z"),
+        enddate: ISODate("1993-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1993-01-05T00:00:00.000Z"),
+        enddate: ISODate("1995-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1995-01-04T00:00:00.000Z"),
+        enddate: ISODate("1997-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1997-01-07T00:00:00.000Z"),
+        enddate: ISODate("1999-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("1999-01-06T00:00:00.000Z"),
+        enddate: ISODate("2001-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2001-01-03T00:00:00.000Z"),
+        enddate: ISODate("2003-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2003-01-07T00:00:00.000Z"),
+        enddate: ISODate("2005-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2005-01-04T00:00:00.000Z"),
+        enddate: ISODate("2007-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2007-01-04T00:00:00.000Z"),
+        enddate: ISODate("2009-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2009-01-06T00:00:00.000Z"),
+        enddate: ISODate("2011-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2011-01-05T00:00:00.000Z"),
+        enddate: ISODate("2013-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2013-01-03T00:00:00.000Z"),
+        enddate: ISODate("2015-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2015-01-06T00:00:00.000Z"),
+        enddate: ISODate("2017-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2017-01-03T00:00:00.000Z"),
+        enddate: ISODate("2019-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2019-01-03T00:00:00.000Z"),
+        enddate: ISODate("2021-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2021-01-03T00:00:00.000Z"),
+        enddate: ISODate("2023-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2023-01-03T00:00:00.000Z"),
+        enddate: ISODate("2025-01-03T00:00:00.000Z"),
+        current: 1,
+        party: 'Republican',
+        state: 'NJ',
+        district: 4
+      }
+    ]
+  },
+  {
+    _id: 'S001195',
+    name: 'Jason Smith',
+    birthday: ISODate("1980-06-16T00:00:00.000Z"),
+    gender: 'M',
+    roles: [
+      {
+        type: 'rep',
+        startdate: ISODate("2013-06-04T00:00:00.000Z"),
+        enddate: ISODate("2015-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'MO',
+        district: 8
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2015-01-06T00:00:00.000Z"),
+        enddate: ISODate("2017-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'MO',
+        district: 8
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2017-01-03T00:00:00.000Z"),
+        enddate: ISODate("2019-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'MO',
+        district: 8
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2019-01-03T00:00:00.000Z"),
+        enddate: ISODate("2021-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'MO',
+        district: 8
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2021-01-03T00:00:00.000Z"),
+        enddate: ISODate("2023-01-03T00:00:00.000Z"),
+        party: 'Republican',
+        state: 'MO',
+        district: 8
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2023-01-03T00:00:00.000Z"),
+        enddate: ISODate("2025-01-03T00:00:00.000Z"),
+        current: 1,
+        party: 'Republican',
+        state: 'MO',
+        district: 8
+      }
+    ]
+  },
+  {
+    _id: 'S001203',
+    name: 'Tina Smith',
+    birthday: ISODate("1958-03-04T00:00:00.000Z"),
+    gender: 'F',
+    roles: [
+      {
+        type: 'sen',
+        startdate: ISODate("2018-01-03T00:00:00.000Z"),
+        enddate: ISODate("2018-11-06T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'MN'
+      },
+      {
+        type: 'sen',
+        startdate: ISODate("2018-11-07T00:00:00.000Z"),
+        enddate: ISODate("2021-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'MN'
+      },
+      {
+        type: 'sen',
+        startdate: ISODate("2021-01-03T00:00:00.000Z"),
+        enddate: ISODate("2027-01-03T00:00:00.000Z"),
+        current: 1,
+        party: 'Democrat',
+        state: 'MN'
+      }
+    ]
+  }
+]
