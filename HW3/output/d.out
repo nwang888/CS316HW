@@ -1,0 +1,72 @@
+[
+  {
+    name: 'Donald G. Davis',
+    district: 1,
+    party: 'Democrat'
+  },
+  {
+    name: 'Deborah K. Ross',
+    district: 2,
+    party: 'Democrat'
+  },
+  {
+    name: 'Gregory F. Murphy',
+    district: 3,
+    party: 'Republican'
+  },
+  {
+    name: 'Valerie P. Foushee',
+    district: 4,
+    party: 'Democrat'
+  },
+  {
+    name: 'Virginia Foxx',
+    district: 5,
+    party: 'Republican'
+  },
+  {
+    name: 'Kathy E. Manning',
+    district: 6,
+    party: 'Democrat'
+  },
+  {
+    name: 'David Rouzer',
+    district: 7,
+    party: 'Republican'
+  },
+  {
+    name: 'Dan Bishop',
+    district: 8,
+    party: 'Republican'
+  },
+  {
+    name: 'Richard Hudson',
+    district: 9,
+    party: 'Republican'
+  },
+  {
+    name: 'Patrick T. McHenry',
+    district: 10,
+    party: 'Republican'
+  },
+  {
+    name: 'Chuck Edwards',
+    district: 11,
+    party: 'Republican'
+  },
+  {
+    name: 'Alma S. Adams',
+    district: 12,
+    party: 'Democrat'
+  },
+  {
+    name: 'Wiley Nickel',
+    district: 13,
+    party: 'Democrat'
+  },
+  {
+    name: 'Jeff Jackson',
+    district: 14,
+    party: 'Democrat'
+  }
+]
