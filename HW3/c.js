@@ -25,4 +25,10 @@ printjson(db.people.aggregate([
         age: -1,
         name: 1
     } },
+    { $project: {
+        "age": "$age",
+        "name": "$name",
+        "state": "$state",
+        "type": "$type",
+    } }
 ]).toArray())

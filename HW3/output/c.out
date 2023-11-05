@@ -1,874 +1,656 @@
 [
   {
-    name: 'Dianne Feinstein',
     age: 90,
-    gender: 'F',
+    name: 'Dianne Feinstein',
     state: 'CA',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
-    name: 'Grace F. Napolitano',
     age: 87,
-    gender: 'F',
+    name: 'Grace F. Napolitano',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Eleanor Holmes Norton',
     age: 86,
-    gender: 'F',
+    name: 'Eleanor Holmes Norton',
     state: 'DC',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Maxine Waters',
     age: 85,
-    gender: 'F',
+    name: 'Maxine Waters',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Nancy Pelosi',
     age: 83,
-    gender: 'F',
+    name: 'Nancy Pelosi',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 81,
     name: 'Anna G. Eshoo',
-    age: 81,
-    gender: 'F',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 81,
     name: 'Frederica S. Wilson',
-    age: 81,
-    gender: 'F',
     state: 'FL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Rosa L. DeLauro',
     age: 80,
-    gender: 'F',
+    name: 'Rosa L. DeLauro',
     state: 'CT',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 79,
     name: 'Doris O. Matsui',
-    age: 79,
-    gender: 'F',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 79,
     name: 'Janice D. Schakowsky',
-    age: 79,
-    gender: 'F',
     state: 'IL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Bonnie Watson Coleman',
     age: 78,
-    gender: 'F',
+    name: 'Bonnie Watson Coleman',
     state: 'NJ',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 77,
     name: 'Alma S. Adams',
-    age: 77,
-    gender: 'F',
     state: 'NC',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 77,
     name: 'Barbara Lee',
-    age: 77,
-    gender: 'F',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 77,
     name: 'Marcy Kaptur',
-    age: 77,
-    gender: 'F',
     state: 'OH',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 76,
     name: 'Jeanne Shaheen',
-    age: 76,
-    gender: 'F',
     state: 'NH',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 76,
     name: 'Mazie K. Hirono',
-    age: 76,
-    gender: 'F',
     state: 'HI',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 76,
     name: 'Zoe Lofgren',
-    age: 76,
-    gender: 'F',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Lois Frankel',
     age: 75,
-    gender: 'F',
+    name: 'Lois Frankel',
     state: 'FL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Elizabeth Warren',
     age: 74,
-    gender: 'F',
+    name: 'Elizabeth Warren',
     state: 'MA',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 73,
     name: 'Debbie Stabenow',
-    age: 73,
-    gender: 'F',
     state: 'MI',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 73,
     name: 'Dina Titus',
-    age: 73,
-    gender: 'F',
     state: 'NV',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 73,
     name: 'Joyce Beatty',
-    age: 73,
-    gender: 'F',
     state: 'OH',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 73,
     name: 'Patty Murray',
-    age: 73,
-    gender: 'F',
     state: 'WA',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 73,
     name: 'Sheila Jackson Lee',
-    age: 73,
-    gender: 'F',
     state: 'TX',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 73,
     name: 'Sylvia R. Garcia',
-    age: 73,
-    gender: 'F',
     state: 'TX',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Gwen Moore',
     age: 72,
-    gender: 'F',
+    name: 'Gwen Moore',
     state: 'WI',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Julia Brownley',
     age: 71,
-    gender: 'F',
+    name: 'Julia Brownley',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 70,
     name: 'Debbie Dingell',
-    age: 70,
-    gender: 'F',
     state: 'MI',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 70,
     name: 'Judy Chu',
-    age: 70,
-    gender: 'F',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 70,
     name: 'Nydia M. Velázquez',
-    age: 70,
-    gender: 'F',
     state: 'NY',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 69,
     name: 'Betty McCollum',
-    age: 69,
-    gender: 'F',
     state: 'MN',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 69,
     name: 'Suzanne Bonamici',
-    age: 69,
-    gender: 'F',
     state: 'OR',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Chellie Pingree',
     age: 68,
-    gender: 'F',
+    name: 'Chellie Pingree',
     state: 'ME',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 67,
     name: 'Ann M. Kuster',
-    age: 67,
-    gender: 'F',
     state: 'NH',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 67,
     name: 'Kathy E. Manning',
-    age: 67,
-    gender: 'F',
     state: 'NC',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 67,
     name: 'Robin L. Kelly',
-    age: 67,
-    gender: 'F',
     state: 'IL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 67,
     name: 'Valerie P. Foushee',
-    age: 67,
-    gender: 'F',
     state: 'NC',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 66,
     name: 'Diana DeGette',
-    age: 66,
-    gender: 'F',
     state: 'CO',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 66,
     name: 'Jacky Rosen',
-    age: 66,
-    gender: 'F',
     state: 'NV',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 66,
     name: 'Susan Wild',
-    age: 66,
-    gender: 'F',
     state: 'PA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 65,
     name: 'Margaret Wood Hassan',
-    age: 65,
-    gender: 'F',
     state: 'NH',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 65,
     name: 'Maria Cantwell',
-    age: 65,
-    gender: 'F',
     state: 'WA',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 65,
     name: 'Tina Smith',
-    age: 65,
-    gender: 'F',
     state: 'MN',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 64,
     name: 'Madeleine Dean',
-    age: 64,
-    gender: 'F',
     state: 'PA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 64,
     name: 'Mary Gay Scanlon',
-    age: 64,
-    gender: 'F',
     state: 'PA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 64,
     name: 'Teresa Leger Fernandez',
-    age: 64,
-    gender: 'F',
     state: 'NM',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 63,
     name: 'Amy Klobuchar',
-    age: 63,
-    gender: 'F',
     state: 'MN',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 63,
     name: 'Lucy McBath',
-    age: 63,
-    gender: 'F',
     state: 'GA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 61,
     name: 'Lisa Blunt Rochester',
-    age: 61,
-    gender: 'F',
     state: 'DE',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 61,
     name: 'Marilyn Strickland',
-    age: 61,
-    gender: 'F',
     state: 'WA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 61,
     name: 'Suzan K. DelBene',
-    age: 61,
-    gender: 'F',
     state: 'WA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 61,
     name: 'Tammy Baldwin',
-    age: 61,
-    gender: 'F',
     state: 'WI',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 60,
     name: 'Deborah K. Ross',
-    age: 60,
-    gender: 'F',
     state: 'NC',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Katherine M. Clark',
     age: 60,
-    gender: 'F',
+    name: 'Katherine M. Clark',
     state: 'MA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 59,
     name: 'Catherine Cortez Masto',
-    age: 59,
-    gender: 'F',
     state: 'NV',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 59,
     name: 'Val T. Hoyle',
-    age: 59,
-    gender: 'F',
     state: 'OR',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 59,
     name: 'Yvette D. Clarke',
-    age: 59,
-    gender: 'F',
     state: 'NY',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 58,
     name: 'Norma J. Torres',
-    age: 58,
-    gender: 'F',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 58,
     name: 'Pramila Jayapal',
-    age: 58,
-    gender: 'F',
     state: 'WA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 58,
     name: 'Terri A. Sewell',
-    age: 58,
-    gender: 'F',
     state: 'AL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 57,
     name: 'Debbie Wasserman Schultz',
-    age: 57,
-    gender: 'F',
     state: 'FL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 57,
     name: 'Kathy Castor',
-    age: 57,
-    gender: 'F',
     state: 'FL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 57,
     name: 'Kirsten E. Gillibrand',
-    age: 57,
-    gender: 'F',
     state: 'NY',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 57,
     name: 'Stacey E. Plaskett',
-    age: 57,
-    gender: 'F',
     state: 'VI',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Susie Lee',
     age: 57,
-    gender: 'F',
+    name: 'Susie Lee',
     state: 'NV',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Chrissy Houlahan',
     age: 56,
-    gender: 'F',
+    name: 'Chrissy Houlahan',
     state: 'PA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 55,
     name: 'Becca Balint',
-    age: 55,
-    gender: 'F',
     state: 'VT',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 55,
     name: 'Jennifer Wexton',
-    age: 55,
-    gender: 'F',
     state: 'VA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 55,
     name: 'Kim Schrier',
-    age: 55,
-    gender: 'F',
     state: 'WA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 55,
     name: 'Tammy Duckworth',
-    age: 55,
-    gender: 'F',
     state: 'IL',
-    type: 'sen',
-    party: 'Democrat'
+    type: 'sen'
   },
   {
+    age: 54,
     name: 'Andrea Salinas',
-    age: 54,
-    gender: 'F',
     state: 'OR',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 54,
     name: 'Linda T. Sánchez',
-    age: 54,
-    gender: 'F',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 54,
     name: 'Veronica Escobar',
-    age: 54,
-    gender: 'F',
     state: 'TX',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 51,
     name: 'Angie Craig',
-    age: 51,
-    gender: 'F',
     state: 'MN',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 51,
     name: 'Jennifer L. McClellan',
-    age: 51,
-    gender: 'F',
     state: 'VA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 51,
     name: 'Mikie Sherrill',
-    age: 51,
-    gender: 'F',
     state: 'NJ',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Sydney Kamlager-Dove',
     age: 51,
-    gender: 'F',
+    name: 'Sydney Kamlager-Dove',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 50,
     name: 'Jahana Hayes',
-    age: 50,
-    gender: 'F',
     state: 'CT',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 50,
     name: 'Lori Trahan',
-    age: 50,
-    gender: 'F',
     state: 'MA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 50,
     name: 'Mary Sattler Peltola',
-    age: 50,
-    gender: 'F',
     state: 'AK',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 49,
     name: 'Ayanna Pressley',
-    age: 49,
-    gender: 'F',
     state: 'MA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Katie Porter',
     age: 49,
-    gender: 'F',
+    name: 'Katie Porter',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 48,
     name: 'Grace Meng',
-    age: 48,
-    gender: 'F',
     state: 'NY',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 48,
     name: 'Lizzie Fletcher',
-    age: 48,
-    gender: 'F',
     state: 'TX',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 48,
     name: 'Shontel M. Brown',
-    age: 48,
-    gender: 'F',
     state: 'OH',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 47,
     name: 'Cori Bush',
-    age: 47,
-    gender: 'F',
     state: 'MO',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 47,
     name: 'Elissa Slotkin',
-    age: 47,
-    gender: 'F',
     state: 'MI',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 47,
     name: 'Jill N. Tokuda',
-    age: 47,
-    gender: 'F',
     state: 'HI',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 47,
     name: 'Nanette Diaz Barragán',
-    age: 47,
-    gender: 'F',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 47,
     name: 'Rashida Tlaib',
-    age: 47,
-    gender: 'F',
     state: 'MI',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Nikki Budzinski',
     age: 46,
-    gender: 'F',
+    name: 'Nikki Budzinski',
     state: 'IL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Nikema Williams',
     age: 45,
-    gender: 'F',
+    name: 'Nikema Williams',
     state: 'GA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 44,
     name: 'Abigail Davis Spanberger',
-    age: 44,
-    gender: 'F',
     state: 'VA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 44,
     name: 'Melanie A. Stansbury',
-    age: 44,
-    gender: 'F',
     state: 'NM',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Sheila Cherfilus-McCormick',
     age: 44,
-    gender: 'F',
+    name: 'Sheila Cherfilus-McCormick',
     state: 'FL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 43,
     name: 'Sharice Davids',
-    age: 43,
-    gender: 'F',
     state: 'KS',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Yadira Caraveo',
     age: 43,
-    gender: 'F',
+    name: 'Yadira Caraveo',
     state: 'CO',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 42,
     name: 'Brittany Pettersen',
-    age: 42,
-    gender: 'F',
     state: 'CO',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 42,
     name: 'Ilhan Omar',
-    age: 42,
-    gender: 'F',
     state: 'MN',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Jasmine Crockett',
     age: 42,
-    gender: 'F',
+    name: 'Jasmine Crockett',
     state: 'TX',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Hillary J. Scholten',
     age: 41,
-    gender: 'F',
+    name: 'Hillary J. Scholten',
     state: 'MI',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 40,
     name: 'Delia C. Ramirez',
-    age: 40,
-    gender: 'F',
     state: 'IL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 40,
     name: 'Haley M. Stevens',
-    age: 40,
-    gender: 'F',
     state: 'MI',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 37,
     name: 'Emilia Strong Sykes',
-    age: 37,
-    gender: 'F',
     state: 'OH',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Lauren Underwood',
     age: 37,
-    gender: 'F',
+    name: 'Lauren Underwood',
     state: 'IL',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Summer L. Lee',
     age: 36,
-    gender: 'F',
+    name: 'Summer L. Lee',
     state: 'PA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Marie Gluesenkamp Perez',
     age: 35,
-    gender: 'F',
+    name: 'Marie Gluesenkamp Perez',
     state: 'WA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
+    age: 34,
     name: 'Alexandria Ocasio-Cortez',
-    age: 34,
-    gender: 'F',
     state: 'NY',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   },
   {
-    name: 'Sara Jacobs',
     age: 34,
-    gender: 'F',
+    name: 'Sara Jacobs',
     state: 'CA',
-    type: 'rep',
-    party: 'Democrat'
+    type: 'rep'
   }
 ]
