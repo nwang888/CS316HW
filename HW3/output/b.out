@@ -1,0 +1,35 @@
+[
+  {
+    _id: 'O000172',
+    name: 'Alexandria Ocasio-Cortez',
+    birthday: ISODate("1989-10-13T00:00:00.000Z"),
+    gender: 'F',
+    roles: [
+      {
+        type: 'rep',
+        startdate: ISODate("2019-01-03T00:00:00.000Z"),
+        enddate: ISODate("2021-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'NY',
+        district: 14
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2021-01-03T00:00:00.000Z"),
+        enddate: ISODate("2023-01-03T00:00:00.000Z"),
+        party: 'Democrat',
+        state: 'NY',
+        district: 14
+      },
+      {
+        type: 'rep',
+        startdate: ISODate("2023-01-03T00:00:00.000Z"),
+        enddate: ISODate("2025-01-03T00:00:00.000Z"),
+        current: 1,
+        party: 'Democrat',
+        state: 'NY',
+        district: 14
+      }
+    ]
+  }
+]
