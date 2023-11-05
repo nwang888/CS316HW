@@ -1,0 +1,282 @@
+[
+  {
+    state: 'AK',
+    M: 1,
+    F: 2
+  },
+  {
+    state: 'AL',
+    M: 7,
+    F: 2
+  },
+  {
+    state: 'AR',
+    M: 6,
+    F: 0
+  },
+  {
+    state: 'AS',
+    M: 0,
+    F: 1
+  },
+  {
+    state: 'AZ',
+    M: 9,
+    F: 2
+  },
+  {
+    state: 'CA',
+    M: 36,
+    F: 18
+  },
+  {
+    state: 'CO',
+    M: 6,
+    F: 4
+  },
+  {
+    state: 'CT',
+    M: 5,
+    F: 2
+  },
+  {
+    state: 'DC',
+    M: 0,
+    F: 1
+  },
+  {
+    state: 'DE',
+    M: 2,
+    F: 1
+  },
+  {
+    state: 'FL',
+    M: 21,
+    F: 9
+  },
+  {
+    state: 'GA',
+    M: 13,
+    F: 3
+  },
+  {
+    state: 'GU',
+    M: 1,
+    F: 0
+  },
+  {
+    state: 'HI',
+    M: 2,
+    F: 2
+  },
+  {
+    state: 'IA',
+    M: 3,
+    F: 3
+  },
+  {
+    state: 'ID',
+    M: 4,
+    F: 0
+  },
+  {
+    state: 'IL',
+    M: 12,
+    F: 7
+  },
+  {
+    state: 'IN',
+    M: 9,
+    F: 2
+  },
+  {
+    state: 'KS',
+    M: 5,
+    F: 1
+  },
+  {
+    state: 'KY',
+    M: 8,
+    F: 0
+  },
+  {
+    state: 'LA',
+    M: 7,
+    F: 1
+  },
+  {
+    state: 'MA',
+    M: 7,
+    F: 4
+  },
+  {
+    state: 'MD',
+    M: 10,
+    F: 0
+  },
+  {
+    state: 'ME',
+    M: 2,
+    F: 2
+  },
+  {
+    state: 'MI',
+    M: 8,
+    F: 7
+  },
+  {
+    state: 'MN',
+    M: 4,
+    F: 6
+  },
+  {
+    state: 'MO',
+    M: 8,
+    F: 2
+  },
+  {
+    state: 'MP',
+    M: 1,
+    F: 0
+  },
+  {
+    state: 'MS',
+    M: 5,
+    F: 1
+  },
+  {
+    state: 'MT',
+    M: 4,
+    F: 0
+  },
+  {
+    state: 'NC',
+    M: 11,
+    F: 5
+  },
+  {
+    state: 'ND',
+    M: 3,
+    F: 0
+  },
+  {
+    state: 'NE',
+    M: 4,
+    F: 1
+  },
+  {
+    state: 'NH',
+    M: 1,
+    F: 3
+  },
+  {
+    state: 'NJ',
+    M: 12,
+    F: 2
+  },
+  {
+    state: 'NM',
+    M: 3,
+    F: 2
+  },
+  {
+    state: 'NV',
+    M: 2,
+    F: 4
+  },
+  {
+    state: 'NY',
+    M: 20,
+    F: 8
+  },
+  {
+    state: 'OH',
+    M: 13,
+    F: 4
+  },
+  {
+    state: 'OK',
+    M: 6,
+    F: 1
+  },
+  {
+    state: 'OR',
+    M: 4,
+    F: 4
+  },
+  {
+    state: 'PA',
+    M: 14,
+    F: 5
+  },
+  {
+    state: 'PR',
+    M: 0,
+    F: 1
+  },
+  {
+    state: 'RI',
+    M: 4,
+    F: 0
+  },
+  {
+    state: 'SC',
+    M: 8,
+    F: 1
+  },
+  {
+    state: 'SD',
+    M: 3,
+    F: 0
+  },
+  {
+    state: 'TN',
+    M: 9,
+    F: 2
+  },
+  {
+    state: 'TX',
+    M: 32,
+    F: 8
+  },
+  {
+    state: 'UT',
+    M: 6,
+    F: 0
+  },
+  {
+    state: 'VA',
+    M: 9,
+    F: 4
+  },
+  {
+    state: 'VI',
+    M: 0,
+    F: 1
+  },
+  {
+    state: 'VT',
+    M: 2,
+    F: 1
+  },
+  {
+    state: 'WA',
+    M: 4,
+    F: 8
+  },
+  {
+    state: 'WI',
+    M: 8,
+    F: 2
+  },
+  {
+    state: 'WV',
+    M: 2,
+    F: 2
+  },
+  {
+    state: 'WY',
+    M: 1,
+    F: 2
+  }
+]
