@@ -11,8 +11,8 @@
 
 SELECT c.categoryname, COUNT(DISTINCT o.orderid) as numorders
 FROM categories c
-JOIN products p ON c.categoryid = p.categoryid
-JOIN ordersdetails od ON p.productid = od.productid
-JOIN orders o ON od.orderid = o.orderid
+LEFT JOIN products p ON c.categoryid = p.categoryid -- left join so that all categories are represented
+LEFT JOIN ordersdetails od ON p.productid = od.productid
+LEFT JOIN orders o ON od.orderid = o.orderid
 GROUP BY c.categoryname
 ORDER BY numorders DESC;
