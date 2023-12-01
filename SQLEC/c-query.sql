@@ -9,7 +9,7 @@
 --      6 |    10 
 --      7 |     2 
 
-SELECT EXTRACT(MONTH FROM o.orderdate) AS month
+SELECT EXTRACT(MONTH FROM o.orderdate) AS month 
 FROM orders o
 JOIN employees e ON e.employeeid = e.employeeid
 WHERE NOT EXISTS (
